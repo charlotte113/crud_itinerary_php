@@ -1,6 +1,7 @@
 # CRUD_travel_php
 ## 導入模組
-請先安裝XAMPP,並且把此資料夾放入htdocs資料夾中
+請先安裝XAMPP,並且把此資料夾放入htdocs資料夾中。
+在 XAMPP 控制面板中，開啟 Apache 和 MySQL 。
 
 ## 新增權限帳號
 在 phpMyAdmin 新增權限帳號
