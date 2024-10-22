@@ -1,7 +1,7 @@
 # CRUD_travel_php 旅遊平台
 ## 導入模組
 請先安裝XAMPP,  
-並且把此檔案下載解壓縮後,資料夾名稱改為crud_itinerary_php，並且放入htdocs資料夾中。  
+並且把此檔案下載解壓縮後,把資料夾放入 htdocs 資料夾中。  
 在 XAMPP 控制面板中，開啟 Apache 和 MySQL 。
 
 ## 新增權限帳號
@@ -15,4 +15,4 @@
 2. 匯入 database 資料夾中 travel_ (2).sql 檔案
 
 ## 開始使用
-啟動XAMPP後,在瀏覽器輸入 http://localhost/crud_itinerary_php 即可開啟
+啟動XAMPP後,在瀏覽器輸入 http://localhost/crud_itinerary_php-main/ 即可開啟
