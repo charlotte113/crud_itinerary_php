@@ -1,4 +1,4 @@
-# CRUD_travel_php
+# CRUD_travel_php 旅遊平台
 ## 導入模組
 請先安裝XAMPP,並且把此資料夾放入htdocs資料夾中。  
 在 XAMPP 控制面板中，開啟 Apache 和 MySQL 。
